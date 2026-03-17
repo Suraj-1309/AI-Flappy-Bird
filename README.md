@@ -1,0 +1,1 @@
+Day 1 -> get images for the game, basic physics idea and a little bit of code 
